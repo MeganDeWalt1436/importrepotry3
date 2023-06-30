@@ -5,7 +5,6 @@ channels:
   - defaults
 dependencies:
   - r-base=4.0
-  - r-doplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
